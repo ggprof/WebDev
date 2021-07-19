@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Gomes
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development with HTML 5
 
 <!---
 ggprof/ggprof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
