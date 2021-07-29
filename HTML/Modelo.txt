@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport">
+<meta content="width=device-width, initial-scale=1.0">
+<title>WebDev</title>
+<link rel="stylesheet" href="Styles.css">
+</head>
+<body>
+<div class="main">
+<h1>WebDev</h1>
+<a href="WebDev.html" title="Link criado usando referência relativa, da mesma pasta.">Início</a> |
+<a href="https://github.com/ggprof/WebDev" title="Link criado usando referência absoluta via URL.">GitHub</a> |
+<a href="mailto:gabrielgomes.prof@gmail.com" title="Entre em contato com o desenvolvedor.">Contato</a>
+</div>
+<!-- INSERIR CONTEÚDO A PARTIR DAQUI -->
+</body>
+</html>
